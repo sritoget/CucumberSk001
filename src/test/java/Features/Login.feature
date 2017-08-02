@@ -8,3 +8,4 @@ Feature: LoginFeature
     Then I Should see the home page
 
 
+  Scenario: I want to test google.com
