@@ -46,4 +46,9 @@ public class LoginSteps extends BaseUtil {
     public void iEnterGmailCom() throws Throwable {
         System.out.println("Entering Gmail.com");
     }
+
+    @And("^I Click on Search button$")
+    public void iClickOnSearchButton() throws Throwable {
+        System.out.println("Click on search page");
+    }
 }
