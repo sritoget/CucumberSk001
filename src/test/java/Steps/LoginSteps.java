@@ -49,6 +49,6 @@ public class LoginSteps extends BaseUtil {
 
     @And("^I Click on Search button$")
     public void iClickOnSearchButton() throws Throwable {
-        System.out.println("Click on search page");
+        System.out.println("Click on search button");
     }
 }
