@@ -10,3 +10,4 @@ Feature: LoginFeature
 
   Scenario: I want to test google.com
     Given I Navigate to the login page of the application
+    And I enter Gmail

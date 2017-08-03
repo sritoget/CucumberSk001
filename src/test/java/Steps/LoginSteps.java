@@ -42,5 +42,8 @@ public class LoginSteps extends BaseUtil {
     }
 
 
-
+    @And("^I enter Gmail")
+    public void iEnterGmailCom() throws Throwable {
+        System.out.println("Entering Gmail.com");
+    }
 }
